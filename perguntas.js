@@ -5,9 +5,9 @@ riaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biologia',
+    'Oque é código genético?',
+    'Quais são as principais organelas celulares e suas funções'
 )
 
 criaCartao(
