@@ -1,23 +1,23 @@
-criaCartao(
-    'pergunta geral
-    'De onde é a invenção do chuveiro elétrico
-    'Quais o menor e maior país do mundo
+riaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Conhecimentos geral
-    'Qual a montanha mais alta do mundo?
-    'Que país tem o formato de uma bota?
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'ingles 
-    'Como se diz cachorro em ingles?
-    'Como se diz carro em ingles?
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'conhecimentos gerais
-    'Quem pintou guernica?
-    'Em que ordem surgiram os modelos atomicos ?
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
